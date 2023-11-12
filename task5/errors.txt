@@ -1,0 +1,7 @@
+1. Syntax Error: Thrown when the code does not follow the correct syntax of JavaScript.
+2. Reference Error: Thrown when an attempt is made to access a variable that does not exist.
+3. Type Error: Thrown when an operation is performed on a value of the wrong type.
+4. EvalError: Thrown when an error occurs in the eval() function.
+5. RangeError: Thrown when a number is outside the valid range.
+6. URIError: Thrown when a Uniform Resource Identifier (URI) is invalid.
+7. InternalError: Thrown when an internal error occurs in the JavaScript engine.
